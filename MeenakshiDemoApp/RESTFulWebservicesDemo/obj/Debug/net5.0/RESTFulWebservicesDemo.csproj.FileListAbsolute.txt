@@ -21,3 +21,26 @@ C:\Users\Anumod S\source\repos\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug
 C:\Users\Anumod S\source\repos\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\ref\RESTFulWebservicesDemo.dll
 C:\Users\Anumod S\source\repos\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.pdb
 C:\Users\Anumod S\source\repos\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.genruntimeconfig.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\appsettings.Development.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\appsettings.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.exe
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.deps.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.runtimeconfig.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.runtimeconfig.dev.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\ref\RESTFulWebservicesDemo.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\bin\Debug\net5.0\RESTFulWebservicesDemo.pdb
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.csproj.AssemblyReference.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.AssemblyInfoInputs.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.AssemblyInfo.cs
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.csproj.CoreCompileInputs.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\staticwebassets\RESTFulWebservicesDemo.StaticWebAssets.Manifest.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\staticwebassets\RESTFulWebservicesDemo.StaticWebAssets.xml
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\scopedcss\bundle\RESTFulWebservicesDemo.styles.css
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.RazorTargetAssemblyInfo.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\ref\RESTFulWebservicesDemo.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.pdb
+C:\Dot-Net-Learning\MeenakshiDemoApp\RESTFulWebservicesDemo\obj\Debug\net5.0\RESTFulWebservicesDemo.genruntimeconfig.cache

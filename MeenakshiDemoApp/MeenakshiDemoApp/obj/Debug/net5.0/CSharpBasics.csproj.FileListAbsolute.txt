@@ -1,0 +1,16 @@
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.exe
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.deps.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.runtimeconfig.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.runtimeconfig.dev.json
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\ref\CSharpBasics.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\bin\Debug\net5.0\CSharpBasics.pdb
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.csproj.AssemblyReference.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.AssemblyInfo.cs
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\ref\CSharpBasics.dll
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.pdb
+C:\Dot-Net-Learning\MeenakshiDemoApp\MeenakshiDemoApp\obj\Debug\net5.0\CSharpBasics.genruntimeconfig.cache
