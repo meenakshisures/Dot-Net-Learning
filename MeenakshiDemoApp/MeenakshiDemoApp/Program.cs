@@ -9,6 +9,9 @@ namespace MeenakshiDemoApp
     {
         static void Main(string[] args)
         {
+            LiftHandler.Lift();
+        }
+        static void YY(){
             Types types = new Types();
             types.Array();
             Console.WriteLine("Hello World!");
@@ -140,4 +143,42 @@ namespace MeenakshiDemoApp
             return longestWord;
         }
     }
+    class LiftHandler
+    {
+        // Method to count words in a file
+        public static void Lift(int countLift = 4)
+        {
+            string[] numbers = new string[countLift];
+            Array.Fill(numbers, null); // Initialize lifts with null
+            int currentUser = 0;
+
+            while (true)
+            {
+                Console.WriteLine("Enter a character (or 'x' to exit):");
+                var input = Console.ReadLine();
+
+                if (input.ToLower() == "x")
+                {
+                    Console.WriteLine("Exiting...");
+                    break;
+                }
+
+                if (string.IsNullOrWhiteSpace(input))
+                {
+                    Console.WriteLine("Invalid input. Please try again.");
+                    continue;
+                }
+
+                var index = currentUser % countLift; // Circular logic
+                Console.WriteLine($"The user {input} is in lift {index}");
+                numbers[index] = input; // Store input in the lift array
+
+                Console.WriteLine($"Lift allocation: [{string.Join(", ", numbers)}]");
+                currentUser++;
+            }
+        }
+
+
+    }
+
 }
